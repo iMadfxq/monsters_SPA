@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  font-family: American Typewriter;
+}
+h1 {
+  margin-top: 20px;
+  font-size: 3.2rem;
+  color: rgb(225, 255, 181);
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+.App > p{
+  font-size: 2rem;
+  margin-top: 10px;
+  color: white;
+}

@@ -38,6 +38,8 @@ class App extends Component {
 
     return (
       <div className="App">
+        <h1>Monsters Single Page Application</h1>
+        <p>Built using React</p>
         <SearchBox
           onChangeHandler={this.onSearchChange}
           placeholder={"Search Monsters"}
