@@ -7,7 +7,7 @@ class Card extends Component {
     return (
       <div className="card">
         <img
-          src={`https://robohash.org/${id}.png?set=set2&size=150x150`}
+          src={`https://robohash.org/${id}.png`}
           alt={`The monster ${name}`}
         />
         <h2>{name}</h2>

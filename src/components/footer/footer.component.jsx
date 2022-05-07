@@ -3,7 +3,7 @@ import "./footer.styles.css";
 const Footer = ({ portfolio }) => {
   return (
     <footer>
-      <section class="footer__info">
+      <section className="footer__info">
         <a href={portfolio} target="_blank">
           Developed by:<span>iMadfxq</span>
         </a>
