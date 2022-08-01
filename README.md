@@ -1,3 +1,10 @@
-It fetches the according monster picture depending on the ID of each element. Also fetches random typicode to add data for each monster.
+# Monsters Single Page Application
 
-When using the search bar it will filter the monsters and store these on a different variable that will be the one rendered.
+Fetching images from RoboHash.org, and placeholder text from jsonplaceholder.typicode.com. Rendering using React.
+
+## Features
+
+- Built using React.
+- It's completely responsive.
+- Features a searchbar that will filter monsters depending on your input.
+- Great design.
